@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-      "powder96/numbers.php": "@dev"
+      "powder96/numbers.php": "dev-master"
     }
 }
