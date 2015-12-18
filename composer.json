@@ -1,5 +1,6 @@
 {
     "name": "infernosquad/calculation-bundle",
+    "minimum-stability": "dev",
     "description": "Sandbox bundle for learning purposes",
     "license": "MIT",
     "authors": [
@@ -9,6 +10,6 @@
         }
     ],
     "require": {
-      "powder96/numbers.php": "dev-master"
+      "powder96/numbers.php": "@dev"
     }
 }
