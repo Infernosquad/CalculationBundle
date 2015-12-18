@@ -1,0 +1,14 @@
+{
+    "name": "infernosquad/calculation-bundle",
+    "description": "Sandbox bundle for learning purposes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "infernosquad",
+            "email": "infzanoza@gmail.com"
+        }
+    ],
+    "require": {
+      "herzult/simple-php-easy-plus": "@dev"
+    }
+}
