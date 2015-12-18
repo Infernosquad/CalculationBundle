@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-      "herzult/simple-php-easy-plus": "@dev"
+      "powder96/numbers.php": "@dev"
     }
 }
