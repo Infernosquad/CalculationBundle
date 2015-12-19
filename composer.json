@@ -11,5 +11,8 @@
     ],
     "require": {
       "powder96/numbers.php": "@dev"
+    },
+    "autoload": {
+        "psr-4": { "Infernosquad\\CalculationBundle\\": "" }
     }
 }
