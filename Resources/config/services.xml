@@ -6,6 +6,7 @@
 
     <services>
         <service id="infernosquad_calculation.basic" class="NumbersPHP\Basic" />
+        <service id="infernosquad_calculation.calculus" class="NumbersPHP\Calculus" />
     </services>
 
 </container>
